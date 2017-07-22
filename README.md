@@ -150,8 +150,4 @@ HTTP /1.1 200 OK
 
 -Run the code.
 
-References:-
-References: The entire code is self developed however I have taken some reference from the following links to have clarification on certain topics.
-link:- https://www.youtube.com/watch?v=eXv5H2Y_hF4 
-link: http://crystal.uta.edu/~datta/teaching/cse4344_Summer2017/Programming%20Assignment%201_reference_Java.pdf 
-Link :- https://www.javatpoint.com/ 
+
