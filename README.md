@@ -16,7 +16,7 @@ Web server :- The server is able to handle multiple requests concurrently. This 
 Web client:- The client is able to connect to the server via a socket and to request a page on the server.
 
 Guidelines :- 
--There are two files in the zip (1001451390_AmeyPuranik) folder named as Webserver and web_client. 
+-There are two files in the zip  folder named as Webserver and web_client. 
 
 -These files are the .java files and are the source code of the entire project.
 
